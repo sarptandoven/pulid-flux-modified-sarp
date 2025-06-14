@@ -12,7 +12,6 @@ from torchvision.transforms import functional
 import os
 import logging
 import folder_paths
-import comfy
 from insightface.app import FaceAnalysis
 from .face_restoration_helper import FaceRestoreHelper, get_face_by_index, draw_on
 
